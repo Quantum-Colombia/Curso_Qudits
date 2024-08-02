@@ -1,19 +1,10 @@
 # Computación Cuántica: De Qubits a Qudits
 
-Auscultando las Redes Neuronales con Python es un curso teórico-práctico desarrollado por el Semillero de Investigación en Computación Cuántica y sus Centros de Excelencia en colaboración con la Universidad Nacional de Colombia. A lo largo de cada sesión, tendrás la oportunidad de comprender y aplicar cómo la inteligencia artificial se utiliza en diversos ámbitos de la vida diaria.
+Este curso ofrece una visión general de la computación cuántica basada en Qudits. Los qudits son la unidad computacional multinivel alternativa al qubit convencional de 2 niveles. En comparación con el qubit, el qudit ofrece un espacio de estados mayor para almacenar y procesar información, por lo que puede reducir la complejidad de los circuitos, simplificar la configuración experimental y aumentar la eficacia de los algoritmos.
+
 
 Este curso se lleva a cabo de manera sincrónica en Twitch y, posteriormente, estará disponible en YouTube. 
 Al completar el curso, podrás realizar un examen de conocimientos para obtener un certificado del Semillero de Investigación Quantum Computing.
-
-
-### Contenido
-
-En este repositorio, encontrarás los cuadernos de práctica correspondientes a cada semana. Puedes acceder a ellos en modo de solo lectura; sin embargo, te recomendamos que hagas una copia y los ejecutes directamente en tu ordenador. De esta manera, podrás realizar modificaciones y experimentar con los ejercicios que hemos preparado para ti.
-
-
-## Sitio web
-
-[Curso Inteligencia Artificial: Auscultando las Redes Neuronales con Python](https://taller6-quantumc.my.canva.site/ia-home)
 
 ## Hecho con
 
